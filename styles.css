@@ -1,0 +1,14 @@
+a {
+    text-align: center;
+    font-size: larger;
+    display: block;
+    color: blue;
+    
+}
+
+a:hover {
+    font-style: italic;
+    color: purple;
+
+}
+
